@@ -1,5 +1,8 @@
-#Millikyl
+#BJChaney's blog
 
-**Millikyl** is a *Jekyll* theme based on the super minimal CSS framework [*Milligram*](https://github.com/milligram/milligram)
 
-[Demo](http://fareez-ahamed.github.io/millikyl)
+### BJChaney:
+
+- #### 帝都 java小白一枚 做了1年安卓开发，目前刚准备转Java后端
+- #### Email : justfy.hi@gmail.com
+- #### Blog : [BJChaney's blog](bjchaney.github.io)
