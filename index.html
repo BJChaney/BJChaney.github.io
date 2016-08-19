@@ -7,9 +7,9 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-      <h4>
+      <h5>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h4>
+        </h5>
         <span class="post-meta">{{ post.date | date: "%D" }}</span>
       </li>
     {% endfor %}

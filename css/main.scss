@@ -97,10 +97,11 @@ body {
 
 .page-content {
 	margin: 0 auto;
-	width: 800px;
-
+	width: 100%;
+	padding: 0 2rem;
 	.wrapper {
-		margin-top: 5.2rem;
+		margin: 5.2rem auto;
+		width: 800px;
 	}
 }
 
