@@ -72,7 +72,13 @@
 		padding-top: 0.8rem;
 		@extend h5;
 	}
-
+	#motto {
+		float: left;
+		//display: inline;
+		padding-top: 1.8rem;
+		color: $color-motto;
+		padding-left: 0.5rem;
+	}
 	.navigation-item {
 		display: inline;
 		padding-left: 2rem;

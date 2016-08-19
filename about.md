@@ -3,13 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Millikyl is a Jekyll theme based on Milligram, a small, clutter free CSS framework.
-
-You can find the source code for the Millikyl theme at:
-{% include icon-github.html username="fareez-ahamed" %} /
-[jekyll-new](https://github.com/fareez-ahamed/millikyl)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<br>
+### Chaney:
+- 帝都 java小白一枚 做了1年安卓开发，目前刚准备转Java后端
+- Email : justfy.hi@gmail.com
+- Blog : [BJChaney's blog](https://bjchaney.github.io)
+- weibo: [@BJChaney](http://weibo.com/u/5904364811)

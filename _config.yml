@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: BJChaney's blog
+title: Chaney
 email: justfy.hi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Coder in Beijing , Java developer , Google fans 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.bjchany.com" # the base hostname & protocol for your site
-twitter_username: fareez_ahamed
+url: "http://BJChaney.github.io" # the base hostname & protocol for your site
 github_username:  BJChaney
-
+motto: "行胜于言,持之以恒。"
 # Build settings
 markdown: kramdown
