@@ -104,6 +104,18 @@ body {
 		width: 800px;
 	}
 }
+.page-content a{
+	color: $color-link-init;
+	text-decoration: none;
+}
+.page-content a:hover{
+	color: $color-motto;
+	text-decoration: none;
+}
+.page-content a:visited{
+	color: $color-motto;
+	text-decoration: none;
+}
 
 .post-header {
 	padding-top: 8rem;
