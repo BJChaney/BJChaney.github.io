@@ -9,7 +9,7 @@
 title: Chaney
 email: justfy.hi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Coder in Beijing , Java developer , Google fans 
+  Coder in Beijing , Java developer 
 baseurl: "https://bjchaney.com" # the subpath of your site, e.g. /blog
 url: "https://BJChaney.github.io" # the base hostname & protocol for your site
 github_username:  BJChaney
