@@ -75,9 +75,10 @@
 	#motto {
 		float: left;
 		//display: inline;
-		padding-top: 1.8rem;
+		padding-top: 2.3rem;
 		color: $color-motto;
 		padding-left: 0.5rem;
+		font-size: 1.3rem;
 	}
 	.navigation-item {
 		display: inline;
@@ -110,12 +111,8 @@ body {
 }
 .page-content a:hover{
 	color: $color-motto;
-	text-decoration: none;
 }
-.page-content a:visited{
-	color: $color-motto;
-	text-decoration: none;
-}
+
 
 .post-header {
 	padding-top: 8rem;
